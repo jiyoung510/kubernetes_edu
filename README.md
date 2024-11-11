@@ -15,4 +15,6 @@ takytaky@empas.com
 - docker install
     https://docs.docker.com/engine/install/rhel/
 
-- 
+- https://labs.play-with-k8s.com/
+
+- https://killercoda.com/
