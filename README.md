@@ -27,3 +27,8 @@ takytaky@empas.com
 - kubectl set image
 - kubectl edit (객체의 속성 실시간 변경)
 - 템플릿(yaml) 수정 -> kubectl apply
+
+
+- clusterIP : 클러스터 내에서만 접근할 때
+- nodePort : 노드의 포트번호를 자원으로 가짐, 외부의 요청
+- LoadBalancer : 외부와 통신할 수 있는 IP도 자원으로 가짐
